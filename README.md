@@ -59,8 +59,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=tarikurrahman&show_icons=true&theme=tokyonight&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tarikurrahman&layout=compact&theme=tokyonight&hide_border=true" width="46%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarikurrahman&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarikurrahman&theme=tokyonight" width="49%" />
 </p>
 
 ---
